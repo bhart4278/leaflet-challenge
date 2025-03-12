@@ -53,7 +53,7 @@ The earthquake data is fetched dynamically from the **USGS GeoJSON Feed**:
 - **Legend**: Helps interpret depth-based color coding.
 - **Popups**: Display information like **magnitude, location, and depth**.
 
-## Example Screenshot
+## Map
 
 ![Screenshot 2025-03-12 at 1 33 18 PM](https://github.com/user-attachments/assets/7563d6ef-d832-418c-8b7d-787807cd3655)
 
