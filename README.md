@@ -55,8 +55,7 @@ The earthquake data is fetched dynamically from the **USGS GeoJSON Feed**:
 
 ## Map
 
-![Screenshot 2025-03-12 at 1 33 18 PM](https://github.com/user-attachments/assets/7563d6ef-d832-418c-8b7d-787807cd3655)
-
+![Screenshot 2025-03-12 at 1 46 11 PM](https://github.com/user-attachments/assets/ea2bd8f4-6636-457e-b2df-de6de267c31c)
 
 ## References
 
